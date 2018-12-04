@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# @wareeq_shile 
+# 
 from sys import argv
 
 f = open(argv[1],'r')
